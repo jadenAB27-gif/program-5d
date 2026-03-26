@@ -1,12 +1,10 @@
-# program-5-b-
+# program-5d
 C module 5
-EX NO:5-b) Swap two values using pointers. 
+EX NO:5-d) Swap two values using pointers. 
 
-Date:19/10/2025 
-
-Name: VASANTH S 
-
-Ref no: 25017538
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 To write a c program to swap two numbers using pointers.
